@@ -1,0 +1,4 @@
+interface:
+  display_name: "Writing Documentation Tone"
+  short_description: "Write with a clear, warm technical voice"
+  default_prompt: "Use $writing-documentation-tone to draft this message in a clear, warm, technically precise voice."
